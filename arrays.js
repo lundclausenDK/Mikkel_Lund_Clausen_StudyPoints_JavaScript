@@ -70,3 +70,6 @@ for (var i = 0; i < allCaps.length; i++) {
     }
 }
  console.log(bigL);
+
+ // the end
+ console.log("***");
